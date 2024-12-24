@@ -1,6 +1,8 @@
 <?php
 
-class Product
+use Interfaces\BudgetableInterface;
+
+class Product implements BudgetableInterface
 {
     private $description;
     private $stock;
@@ -18,6 +20,11 @@ class Product
     public function getDescription()
     {
         return $this->description;
+    }
+
+    public function getPrice()
+    {
+        return $this->price;
     }
 
     public function setFactory(Factory $factory)
