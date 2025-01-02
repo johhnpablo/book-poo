@@ -1,4 +1,4 @@
-#"PHP - Programando com Orientação a Objetos" - Book Studies
+# PHP - Programando com Orientação a Objetos" - Book Studies
 
 Este repositório contém os exercícios e projetos desenvolvidos a partir do livro **PHP Programando com Orientação a Objetos - 4ª Edição**, do **Pablo Dall’Oglio**.
 
