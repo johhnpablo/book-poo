@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="css/form.css" type="text/css" media="screen">
     </head>
     <body>
-        <form enctype="multipart/form-data" method="post" action="insert_save_person.php">
+        <form enctype="multipart/form-data" method="post" action="insert_person_save.php">
             <label>Código</label>
             <input name="id" readonly="1" type="text" style="width: 30%">
 
